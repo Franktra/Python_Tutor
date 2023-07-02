@@ -1,7 +1,5 @@
 # Report: Pypeline - An Interactive Python Learning Platform
 
-![Pypeline Logo](pypeline-logo.png)
-
 ## Introduction
 
 Pypeline is a vision brought to life in the form of an interactive, engaging, and community-driven learning platform. Its main purpose is to guide learners on their journey to becoming proficient in Python, with a special focus on prompt engineering. With an ethos of user-centric design and a foundation rooted in creating a safe and inclusive learning environment, Pypeline has been meticulously developed to address learners' needs. 🌟
